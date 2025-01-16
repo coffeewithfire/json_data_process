@@ -2,7 +2,7 @@
 to run code localy:
 ```
 python -m venv .venv
-sourse .venv/bin/activate
+source .venv/bin/activate
 pip install -r requirements.txt
 python main.py
 ```
